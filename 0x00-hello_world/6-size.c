@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main - Entry point
+ * main - Entry point
  *
- * Description: using sizeof and printf.
+ * Description: A C program that prints the size of various types on the computer.
  *
  * Return: Always 0 (Success)
 */

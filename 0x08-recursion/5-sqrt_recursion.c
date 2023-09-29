@@ -7,7 +7,7 @@
  * Return: int
 */
 
-int square(int n, int val);
+int square(int n, int val)
 int _sqrt_recursion(int n)
 {
 	return (sqaure(n, 1));
